@@ -15,7 +15,7 @@ This repository hosts official, pre-compiled desktop application releases, insta
 
 Secret Maker is the desktop creator application for local secret authoring, multi-layer capsule packaging (`.clox`), life-planning template entry, and time-locked vault publication.
 
-Pre-built binaries, desktop installers (`.deb`, `.msix`), and application bundles are available on the [Releases](https://github.com/Chronolox/secret-maker/releases) page.
+Pre-built binaries, desktop installers (`.deb`, `.msix`), and application bundles are available on the [Releases](https://github.com/Chronolox/secret-maker/releases) page. For a guided installer with automatic platform detection, see the [Downloads & Installation](https://chronolox.com/downloads) page.
 
 ---
 
